@@ -1,6 +1,14 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# React Native Demo App to Invoke Lambda
 
-# Getting Started
+Call AWS Lambda and other AWS services with AWS APIs from React Native without bulky AWS SDK.
+
+With [react-native-quick-aws4](https://github.com/ShivamJoker/react-native-quick-aws4) our app size stays small and AWS Sign V4 gets calculated faster with [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto).
+
+https://github.com/LearnAWS-io/ReactNative-Invoke-Lambda/assets/23727670/6d35aac1-e7c0-46a3-9ac4-80a63df481fb
+
+## Getting Started with React Native
+
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
